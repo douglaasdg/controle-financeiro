@@ -11,5 +11,7 @@ Aplicação de gestão de finanças
 | **Frontend** | React.           |
 
 ## Status
-Aplicação em fase inicial de desenvolvimento.
+1. Aplicação em fase inicial de desenvolvimento;
+2. Estrutura inicial no git remoto;
+3. O padrão utilizado para as rotas em plural ``` @ResquestMapping("/usuarios")``` de acordo com a convenção APIs REST;
 
